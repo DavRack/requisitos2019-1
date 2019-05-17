@@ -1,0 +1,72 @@
+---
+author:
+    David Londoño,
+    Esteban Palacio,
+    Jacob Arcila,
+    Jean Paul Yepes
+title: Entrega requisitos equipo 7
+output: pdf_document
+number_sections: true
+---
+
+## Dialogo controlado
++ **Analista:** Buenas tardes, en esta entrevista vamos a clarificar la información acerca del funcionamiento de las propiedades horizontales. Responda las siguientes preguntas lo más claramente posible.
+    + **Interesado:** Muy bien, entendido. Comencemos.
+
++ **Analista:** ¿Cuales son los problemas a los que desean darle solución con éste sistema?
+    + **Interesado:** se necesita manejar un control de los visitantes y los copropietarios que ingresan a la unidad, es decir quienes pueden ingresar o no a la unidad. También necesitamos controlar el ingreso de automóviles, administración de espacios comunes, el pago de la administración y la asistencia a las reuniones de copropietarios.
+
++ **Analista:** ¿Quienes están autorizados para ingresar?
+    + **Interesado:** Los residentes del apartamento, y visitantes autorizados.
+
++ **Analista:** ¿Quienes pueden autorizar la entrada a los visitantes?
+    + **Interesado:** Los residentes de cada apartamento.
+
++ **Analista:** ¿Existe un límite de visitantes por apartamento?
+    + **Interesado:** No.
+
++ **Analista:** En caso que una persona no autorizada desee ingresar a la unidad ¿que procedimiento se debe seguir?
+    + **Interesado:** Se debe llamar al apartamento y se pregunta por autorización, en caso que la respuesta sea afirmativa se deja entrar, ademas un residente puede informar que una persona especifica va a llegar en cierto momento, y se le autorizará la entrada a esta persona
+
++ **Analista:** ¿cada apartamento tiene parqueadero propio?
+    + **Interesado:** si, cada apartamento tiene dos parqueaderos.
+
++ **Analista:** ¿En caso que alguien necesite más parqueaderos que debe hacer?
+    + **Interesado:** Esta persona puede comprar o alquilar otro.
+
++ **Analista:** ¿cuantos vehículos puede tener un propietario por celda?
+    + **Interesado:** Puede tener un automóvil o las bicicletas y motos que se puedan acomodar prudentemente.
+    
++ **Analista:** ¿hay parqueaderos específicos para visitantes?
+    + **Interesado:** si
+    
++ **Analista:** ¿que zonas comunes se pueden reservar?
+    + **Interesado:** piscina, turco, jacuzzi, chanchas, salón social etc.
+    
++ **Analista:** ¿que procedimiento hace falta para realizar una reserva?
+    + **Interesado:** se llama al portero para realizar la reserva y este verifica si el espacio ya está ocupado o reservado.
+    
++ **Analista:** ¿quienes pueden realizar una reserva?
+    + **Interesado:** los residentes
+    
++ **Analista:** ¿con que tiempo de anterioridad se debe realizar una reserva?
+    + **Interesado:** no existe un plazo definido, con tal que no exista una reserva previa.
+    
++ **Analista:** ¿a quien se le cobra la administración?
+    + **Interesado:** se le cobra al dueño del inmueble
+    
++ **Analista:** ¿con cuantos días de anticipación se debe enviar el recibo de pago?
+    + **Interesado:** con 15 días de anticipación
+    
++ **Analista:** ¿que pasa si no se paga la administración?
+    + **Interesado:** pierde el derecho a votar en la junta de copropietarios y se le cobra una multa.
+    
++ **Analista:** ¿como se paga la administración?
+    + **Interesado:** se hace una consignación a la cuenta bancaria de la unidad.
+    
++ **Analista:** ¿quienes asisten a la reunión de copropietarios?
+    + **Interesado:** los dueños que estén a paz y salvo al momento de la reunión
+    
++ **Analista:** Gracias por su valiosa información, estaremos en contacto para aclarar cualquier duda que surja.
+    + **Interesado:** Gracias, estaré en contacto.
+    
